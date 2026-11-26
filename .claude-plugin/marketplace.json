@@ -1,0 +1,16 @@
+{
+  "name": "blas1n-plugins",
+  "owner": { "name": "blas1n" },
+  "metadata": {
+    "description": "Claude Code plugins extracted from BSVibe, an AI agent platform that was retired in 2026."
+  },
+  "plugins": [
+    {
+      "name": "repro-verify",
+      "source": "./plugins/repro-verify",
+      "description": "Adversarial verification with reproduced findings only, and a counterfactual guard check for new tests.",
+      "version": "0.1.0",
+      "category": "development"
+    }
+  ]
+}

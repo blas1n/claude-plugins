@@ -1,0 +1,10 @@
+{
+  "name": "repro-verify",
+  "version": "0.1.0",
+  "description": "Adversarial verification that counts a finding only when a harness reproduces it after the change and not before it, plus a counterfactual check of whether new tests depend on the change.",
+  "author": { "name": "blas1n" },
+  "homepage": "https://github.com/blas1n/claude-plugins",
+  "repository": "https://github.com/blas1n/claude-plugins",
+  "license": "MIT",
+  "keywords": ["verification", "code-review", "testing", "adversarial", "agents"]
+}
